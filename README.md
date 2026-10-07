@@ -298,7 +298,6 @@ Quando um repositório não possuir uma licença definida, consulte os responsá
 **HarmonIA — Inteligência Artificial e Análise de Dados**
 
 🌐 Portal: https://harmonia.tec.br
-💬 LumIA: https://lumia.harmonia.tec.br
 
 **HarmonIA-UFPR**
 
