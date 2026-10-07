@@ -135,8 +135,6 @@ O assistente utiliza uma arquitetura baseada em **RAG (Retrieval-Augmented Gener
 * classificação por nível de complexidade;
 * avaliação da qualidade das respostas.
 
-🌐 **LumIA:** https://lumia.harmonia.tec.br
-
 ---
 
 # 🏛️ Organização do projeto
