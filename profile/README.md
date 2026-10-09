@@ -1,3 +1,5 @@
+![Texto HarmonIA (fundo azul)](https://github.com/HarmonIA-UFPR/harmonia-lumia-prototipo/blob/main/app-harmonia/frontend/public/images/texto-bg-azul.jpg)
+
 # HarmonIA
 
 **Inteligência Artificial e Análise de Dados** 
