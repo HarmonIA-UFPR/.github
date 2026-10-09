@@ -1,6 +1,7 @@
 # HarmonIA
 
-**Inteligência Artificial e Análise de Dados**  
+**Inteligência Artificial e Análise de Dados** 
+
 Projeto de iniciativa acadêmica de pesquisa e desenvolvimento vinculada à Universidade Federal do Paraná (UFPR), no âmbito do Laboratório de Excelência em Inteligência Artificial (LexIA).
 
 O HarmonIA articula pesquisa, desenvolvimento de software, organização de dados e experimentação com Inteligência Artificial. Suas frentes de trabalho podem envolver recuperação de informação, sistemas de recomendação, processamento de linguagem natural, modelos de linguagem, bancos de dados, busca vetorial, RAG e avaliação de sistemas de IA.
