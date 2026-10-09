@@ -1,16 +1,8 @@
 ![Texto HarmonIA (fundo azul)](https://github.com/HarmonIA-UFPR/harmonia-lumia-prototipo/blob/main/app-harmonia/frontend/public/images/texto-bg-azul.jpg)
 
-# HarmonIA
+# 🗂️ Repositório
 
-**Inteligência Artificial e Análise de Dados** 
-
-Projeto de iniciativa acadêmica de pesquisa e desenvolvimento vinculada à Universidade Federal do Paraná (UFPR), no âmbito do Laboratório de Excelência em Inteligência Artificial (LexIA).
-
-O HarmonIA articula pesquisa, desenvolvimento de software, organização de dados e experimentação com Inteligência Artificial. Suas frentes de trabalho podem envolver recuperação de informação, sistemas de recomendação, processamento de linguagem natural, modelos de linguagem, bancos de dados, busca vetorial, RAG e avaliação de sistemas de IA.
-
-# 📂 Repositório público
-
-Este repositório pertence à organização **HarmonIA-UFPR** e reúne os projetos relacionados ao desenvolvimento do ecossistema HarmonIA.
+Este repositório pertence ao projeto **HarmonIA** e reúne os projetos relacionados ao desenvolvimento do ecossistema HarmonIA.
 
 Atualmente, o único repositório público da organização é:
 
@@ -19,6 +11,14 @@ Atualmente, o único repositório público da organização é:
 O código está disponível para consulta e testes. Para conhecer os requisitos, os procedimentos de configuração e as instruções de execução, consulte o `README.md` do próprio repositório.
 
 À medida que outros componentes forem publicados, esta página será atualizada com os respectivos links e descrições.
+
+# 🏛️ O projeto HarmonIA
+
+**Inteligência Artificial e Análise de Dados** 
+
+Projeto de iniciativa acadêmica de pesquisa e desenvolvimento vinculada à Universidade Federal do Paraná (UFPR), no âmbito do Laboratório de Excelência em Inteligência Artificial (LexIA).
+
+O HarmonIA articula pesquisa, desenvolvimento de software, organização de dados e experimentação com Inteligência Artificial. Suas frentes de trabalho podem envolver recuperação de informação, sistemas de recomendação, processamento de linguagem natural, modelos de linguagem, bancos de dados, busca vetorial, RAG e avaliação de sistemas de IA.
 
 ---
 
@@ -50,7 +50,7 @@ O desenvolvimento busca observar os seguintes princípios:
 
 ---
 
-#  Saiba mais: 
+# 👉 Saiba mais: 
 
 - **Portal HarmonIA:** https://harmonia.tec.br
 - **Protótipo HarmonIA/LUMIA no GitHub:** https://github.com/HarmonIA-UFPR/harmonia-lumia-prototipo
